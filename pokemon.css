@@ -1,0 +1,36 @@
+#nameList {
+  float:left;
+  width:300px;
+}
+
+span {
+  width:500px;
+  display:inline-block;
+}
+
+body {
+  background-color: #fffacd;
+  font-family: "Helvetica";
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+a:hover {
+  color: blue;
+}
+
+p {
+  color:blue;
+}
+
+#disclaimer {
+  margin-top: 10px;
+}
+
+h1 {
+  font-family: 'Luckiest Guy', cursive;
+  color:red; 
+}
